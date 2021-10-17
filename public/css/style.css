@@ -1,0 +1,174 @@
+/*
+Custom style
+*/
+
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.admin-menu {
+     font-weight: 700;
+     margin: 10px;
+     font-size: 20px;
+ }
+
+.admin-menu a {
+    padding-right: 15px;
+}
+
+.admin-login{
+    font-size: 15px;
+}
+
+ol li {
+    padding-left: 5px;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+/* Validation messages */
+.alert li {
+    text-align: left;
+}
+
+/* Login form */
+.card {
+    min-width: 400px;
+}
+
+.table td {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+p {
+    margin: 0;
+}
+p.total {
+    background-color: #E7E9EB;
+}
+
+.form-phone {
+    margin: 0 auto 15px;
+}
+.form-phone input:first-child {
+    margin-right: 5px;
+}
+
+.form-phone::placeholder {
+    color: blue;
+    font-size: 1.5em;
+}
+
+.form-center {
+    max-width: 600px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.form-font {
+    font-size: 20px;
+}
+.pagination {
+    justify-content: center;
+    font-size: 12px;
+}
+.page-item .page-link {
+    z-index: 1;
+    color: #636b6f;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #E7E9EB;
+    border-color: #E7E9EB;
+}
+
+.breadcrumb {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+ol li {
+    padding-left: 10px;
+}
+
+.contactListTbody .tdAction {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.table-width {
+    max-width: 494px;
+}
+
+.table-width-admin {
+    max-width: 514px;
+}
+
+.position-button {
+    position:absolute;
+    right: 0;
+    top: 0;
+}
+
+.container-button {
+    position:relative;
+}
+
+.search-table {
+    font-size: 22px;
+    font-weight: 400;
+    padding: 10px 0;
+}
+
+
